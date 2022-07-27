@@ -1,0 +1,3 @@
+﻿  Poem.c
+  Source.cpp
+LINK : fatal error LNK1104: cannot open file 'C:\Users\gabri\Desktop\libs\x64 debug\libcurl_a_debug.lib'
